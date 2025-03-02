@@ -76,6 +76,10 @@ const images = [
   { src: '/images/project8.png', link: 'https://ecommerce-website-milestone3.vercel.app' },
   { src: '/images/project9.png', link: 'https://milestone-2-project-1-xygl.vercel.app/' },
   { src: '/images/project10.png', link: 'https://marketplace-hackathon3-zeta.vercel.app' },
+  { src: '/images/project11.png', link: 'https://qaimudin-khuwaja-portfolio.vercel.app' },
+  { src: '/images/project12.png', link: 'https://music-player-ip.vercel.app' },
+  { src: '/images/project13.png', link: 'https://image-gallery-ip.vercel.app' },
+  { src: '/images/project14.png', link: 'https://calculator-ip.vercel.app' },
 ];
 
 const Carousel = () => {

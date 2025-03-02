@@ -249,19 +249,84 @@ const Projects = () => {
         </div>
             {/* Project 12 */}
        <div className="bg-neutral-800 rounded-lg p-6 shadow-lg hover:shadow-xl transition-all flex flex-col justify-between ">
-          <Link href="https://marketplace-hackathon3-zeta.vercel.app">
-            <h2 className="text-2xl font-semibold text-white mb-2 cursor-pointer hover:text-yellow-300">Market Place Ecomerce</h2>
+          <Link href="https://qaimudin-khuwaja-portfolio.vercel.app">
+            <h2 className="text-2xl font-semibold text-white mb-2 cursor-pointer hover:text-yellow-300">My Portfolio</h2>
           
           
           <p className="text-sm text-slate-400 mb-3">
-          Ecommerce Marketplace Website build during hackathon using next.js framework containing fully frontend functionalities, login system, payment method and several other features.
+          My Portfolio Website build using next.js framework containing fully frontend functionalities and several other features.
           </p>
 
           {/* Flex container for tags with gap */}
           <div className="flex flex-wrap gap-1 mt-auto">
-            <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Hackathon</span>
-            <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Sanity</span>
+         
             <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Next.Js</span>
+            <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Tailwind CSS</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">HTML</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">CSS</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">TypeScript</span>
+          </div>
+          </Link> 
+        </div>
+
+           {/* Project 13 */}
+       <div className="bg-neutral-800 rounded-lg p-6 shadow-lg hover:shadow-xl transition-all flex flex-col justify-between ">
+          <Link href="https://music-player-ip.vercel.app">
+            <h2 className="text-2xl font-semibold text-white mb-2 cursor-pointer hover:text-yellow-300">Music Player</h2>
+          
+          
+          <p className="text-sm text-slate-400 mb-3">
+          Music Player website build using nextjs framework. Include several musics. It showcase variety of music that play by majority .
+          </p>
+
+          {/* Flex container for tags with gap */}
+          <div className="flex flex-wrap gap-1 mt-auto">
+          <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">InternShip</span>
+          <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Next.Js</span>
+            <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Tailwind CSS</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">HTML</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">CSS</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">TypeScript</span>
+          </div>
+          </Link> 
+        </div>
+
+           {/* Project 14 */}
+       <div className="bg-neutral-800 rounded-lg p-6 shadow-lg hover:shadow-xl transition-all flex flex-col justify-between ">
+          <Link href="https://image-gallery-ip.vercel.app">
+            <h2 className="text-2xl font-semibold text-white mb-2 cursor-pointer hover:text-yellow-300">Image Gallery</h2>
+          
+          
+          <p className="text-sm text-slate-400 mb-3">
+          Image Gallery website build using nextjs framework. Include several folders. It showcase variety of images, products that play by majority .
+          </p>
+
+          {/* Flex container for tags with gap */}
+          <div className="flex flex-wrap gap-1 mt-auto">
+          <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">InternShip</span>
+          <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Next.Js</span>
+            <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Tailwind CSS</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">HTML</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">CSS</span>
+            <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">TypeScript</span>
+          </div>
+          </Link> 
+        </div>
+        
+           {/* Project 15 */}
+       <div className="bg-neutral-800 rounded-lg p-6 shadow-lg hover:shadow-xl transition-all flex flex-col justify-between ">
+          <Link href="https://calculator-ip.vercel.app">
+            <h2 className="text-2xl font-semibold text-white mb-2 cursor-pointer hover:text-yellow-300">Calculator</h2>
+          
+          
+          <p className="text-sm text-slate-400 mb-3">
+          Calculator build using nextjs framework. Include several functionalities. It showcase many calculations that play by majority .
+          </p>
+
+          {/* Flex container for tags with gap */}
+          <div className="flex flex-wrap gap-1 mt-auto">
+          <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">InternShip</span>
+          <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Next.Js</span>
             <span className="bg-slate-700 text-white py-1 px-1 rounded-md text-xs">Tailwind CSS</span>
             <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">HTML</span>
             <span className="bg-slate-700 text-white py-1 px-2 rounded-md text-xs">CSS</span>
